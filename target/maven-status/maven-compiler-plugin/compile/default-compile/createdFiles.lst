@@ -1,0 +1,9 @@
+com\example\formapi\repository\FormRepository.class
+com\example\formapi\controller\FieldController.class
+com\example\formapi\service\FieldService.class
+com\example\formapi\model\Field.class
+com\example\formapi\model\Form.class
+com\example\formapi\repository\FieldRepository.class
+com\example\formapi\controller\FormController.class
+com\example\formapi\FormApiApplication.class
+com\example\formapi\service\FormService.class
